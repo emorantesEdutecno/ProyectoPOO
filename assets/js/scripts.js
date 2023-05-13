@@ -82,7 +82,6 @@ function presentarInformacionLibro(){
 
 }
 
-
 function asignarEventos(){
     let elBoton = document.getElementById('btnEnviar');
     elBoton.addEventListener('click', atraparDatosDelForm);
